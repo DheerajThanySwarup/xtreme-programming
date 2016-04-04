@@ -112,4 +112,10 @@ public class FlightTests {
         Flight flight = new Flight("F001", source, dest, plane, departure, arrival, travelClasses);
         Assert.assertEquals(2200.0, flight.getPrice(ClassType.ECONOMY, 2), 2.0);
     }
+
+    @Test
+    public void shouldReturnFairJourney() throws Exception {
+        Flight flight = new Flight("F001", source, dest, plane, departure, arrival, travelClasses);
+        Assert.assertEquals(15600.0, flight.getFair(ClassType.ECONOMY, 2), 2.0);
+    }
 }

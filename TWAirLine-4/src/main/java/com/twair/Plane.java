@@ -16,4 +16,5 @@ public class Plane {
     public Integer getNumberOfSeats() {
         return numberOfSeats;
     }
+
 }

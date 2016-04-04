@@ -105,6 +105,5 @@ public class FlightSearchTests {
         FlightSearch fs = allFlights.byDeparture(new GregorianCalendar(2016,4,10));
         List<Flight> matchingFlights = fs.withPriceInformation(ClassType.ECONOMY, 2).getFlightList();
         Assert.assertEquals(Double.valueOf(2200.0), matchingFlights.get(0).getPrice());
-
     }
 }
