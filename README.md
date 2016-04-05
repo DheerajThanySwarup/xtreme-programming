@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #                     EXTREME PROGRAMMING FOR DEVELOPERS
 
 THU, 31st MARCH - SUN, 3rd APRIL 2016 9:00 AM - 5:00 PM
