@@ -13,6 +13,6 @@ THU, 31st MARCH - SUN, 3rd APRIL 2016 9:00 AM - 5:00 PM
 	Object oriented programming with some bits of Design Patterns 
 Along the way you will also learn Standups, Retrospectives and other Agile practices.
 
-Technology :- JAVA
+Technology :- JAVA.
 Framework  :- SPRING
 
